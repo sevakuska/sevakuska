@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sevakuska
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://t.me/sevakuska
 
 <!---
 Sevakuska/Sevakuska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
